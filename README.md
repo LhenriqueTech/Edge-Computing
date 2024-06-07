@@ -158,3 +158,4 @@ void loop()
 </h1>
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/161898042?v=4" width=115><br><sub>Eduardo Tomazela</sub>](https://github.com/du-ntomazela) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/101646035?v=4" width=115><br><sub>Léo Massago</sub>](https://github.com/LeoMasago) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/162758896?v=4" width=115><br><sub>Luiz Henrique</sub>](https://github.com/LhenriqueTech) |
+| :---: | :---: | :---: | 
