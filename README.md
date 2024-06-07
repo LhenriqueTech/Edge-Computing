@@ -1,4 +1,4 @@
-
+# Global Solution 
 
 ## Descrição do Projeto:
 O projeto visa desenvolver um sistema inovador que emprega tecnologia Arduino para monitorar de perto e otimizar as condições ambientais cruciais para a decomposição eficaz de resíduos plásticos no oceano.Este sistema é projetado para operar em colaboração com duas espécies específicas de bactérias, proporcionando um ambiente ideal para sua atividade de degradação.
