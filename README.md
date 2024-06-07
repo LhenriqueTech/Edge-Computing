@@ -148,11 +148,6 @@ void loop()
 }
 
 
-
-<div display="flex">
-    <https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png/>
-</div>
-
 <h1>
   :dark_sunglasses: Integrantes:
 </h1>
