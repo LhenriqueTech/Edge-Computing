@@ -12,6 +12,9 @@ O projeto visa desenvolver um sistema inovador que emprega tecnologia Arduino pa
 - 1 LDR
 - 1 TMP36
 
+## Link do vídeo 
+https://www.youtube.com/watch?v=G5Wt3TPFdOM
+
 ## Link da simulação no Tinkercad
 https://www.tinkercad.com/things/3zhfUSji9RV-copy-of-sensor-ph-?sharecode=jrkLPmMkrt9JHbogopFFagP6G5CExiAZlJUAdUSilac
 
